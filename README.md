@@ -17,6 +17,8 @@ Run with:
 ```
 ./asm Filename.s
 ```
+A collection of sample .s files included in `sfiles/` folder.
+
 ### Virtual Machine
 Run `make` in `visualizer/` folder. An executable will compile.
 Run with:
@@ -25,4 +27,5 @@ usage: ./corewar [-dump nbr_cycles] [-q]
 [[-n number] champion1.cor] [[-n number] champion2.cor]
 [[-n number] champion3.cor] [[-n number] champion4.cor]
 ```
-A collection of sample .s files included in `sfiles/` folder.
+A collection of complied champion(.cor) files included in `cor/` and `chmps/` folder.
+
