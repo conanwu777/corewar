@@ -3,6 +3,9 @@ A reproduction of the Core War game. Including full implementation of assembly c
 
 This project was done in collaboration with my friends Liam Dehaudt and Charles Gleason at 42.
 
+Corewar in action (quiet mode, 4 players):
+![alt text](https://github.com/conanwu777/corewar/blob/master/4.png)
+
 ## Background
 
 Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney, inspired by a malicious virus written in the 80’s. To deal with the self-replicating virus, a white hat hacker invented Reaper. It was a virus designed to spread and eliminate the malware. (for more information, see https://en.wikipedia.org/wiki/Core_War)
@@ -29,3 +32,13 @@ usage: ./corewar [-dump nbr_cycles] [-q]
 ```
 A collection of complied champion(.cor) files included in `cor/` and `chmps/` folder.
 
+## Sample Game
+
+### Warmup
+![alt text](https://github.com/conanwu777/corewar/blob/master/1.png)
+
+### Midfight
+![alt text](https://github.com/conanwu777/corewar/blob/master/2.png)
+
+### Endgame
+![alt text](https://github.com/conanwu777/corewar/blob/master/3.png)
