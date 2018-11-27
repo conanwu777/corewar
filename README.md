@@ -3,8 +3,8 @@ A reproduction of the Core War game. Including full implementation of assembly c
 
 This project was done in collaboration with my friends Liam Dehaudt and Charles Gleason at 42.
 
-Corewar in action (quiet mode, 4 players):
-![alt text](https://github.com/conanwu777/corewar/blob/master/4.png)
+Corewar in action (4 players):
+[![Corewar Video](4.png)](https://www.youtube.com/watch?v=XE8Qi0sdG0A "Corewar video")
 
 ## Background
 
